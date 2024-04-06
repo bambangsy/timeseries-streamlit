@@ -4,6 +4,7 @@
 1. clone this repo
 ```
 git clone https://github.com/bambangsy/timeseries-streamlit
+cd timeseries-streamlit
 ```
 2. On the file path, build virtual environment
 ```bash
