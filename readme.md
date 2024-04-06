@@ -2,6 +2,9 @@
 
 ## How to install
 1. clone this repo
+```
+git clone https://github.com/bambangsy/timeseries-streamlit
+```
 2. On the file path, build virtual environment
 ```bash
 python -m venv venv
