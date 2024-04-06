@@ -1,0 +1,12 @@
+https://medium.com/@mykolakozyr/using-google-earth-engine-in-a-streamlit-app-62c729793007
+
+https://blog.streamlit.io/creating-satellite-timelapse-with-streamlit-and-earth-engine/ 
+
+
+
+Yang kurang:
+- gambar, nama nya sesuain, co: 2023.jpg
+- data_timeseries_gain.json ubah datanya
+- samping sampingan
+- p
+
